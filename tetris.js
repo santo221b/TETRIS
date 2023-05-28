@@ -224,7 +224,7 @@ const colors = [
     'violet',
     'darkorange',   
     'pink',
-    'grey',
+    'red',
     'purple',
     'firebrick'
 

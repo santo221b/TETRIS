@@ -1,2 +1,2 @@
 Tetris game in pure Javascript (ES6).
-Play here : https://santo-cold.github.io/TETRIS/
+Play here : https://santo221b.github.io/TETRIS/
